@@ -13,7 +13,7 @@
 
 ### :man_technologist: About me:
 I am a C++/Python Software Engineer from Croatia
-- I also have experience in Java, C, Erlang...
+- I also have experience in C#/.NET, Java, C, Erlang...
 
 ---
 
